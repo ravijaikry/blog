@@ -1,0 +1,2 @@
+class Hockey < Team
+end
